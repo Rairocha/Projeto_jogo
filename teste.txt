@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Oi tudo bem?
 Tudo ok, estamos vivendo.
-Uhuull tudo ótimo
-=======
->>>>>>> parent of 6e98437 (Update teste.txt)
+Uhuull tudo otimo
+Tudo pessimo nasci cansado
