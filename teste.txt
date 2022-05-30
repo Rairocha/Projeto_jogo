@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 Oi tudo bem?
 Tudo ok, estamos vivendo.
+Tudo pessimo nasci cansado
 =======
 >>>>>>> parent of 6e98437 (Update teste.txt)
