@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Oi tudo bem?
 Tudo ok, estamos vivendo.
+=======
+>>>>>>> parent of 6e98437 (Update teste.txt)
